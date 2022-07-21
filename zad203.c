@@ -3,7 +3,6 @@
 #include <stdio.h>
 #define MAX_VELICINA 100 
 
-/* Function declaration */
 void navodnici(char * string);
 
 
